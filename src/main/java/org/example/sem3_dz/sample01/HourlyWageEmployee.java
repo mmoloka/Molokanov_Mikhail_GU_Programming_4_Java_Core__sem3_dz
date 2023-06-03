@@ -14,7 +14,7 @@ public class HourlyWageEmployee extends BaseEmployee {
 
     @Override
     protected double calculateSalary() {
-        return 28 * 8 * hourlyRate;
+        return 20.8 * 8 * hourlyRate;
     }
 
     @Override
